@@ -1,1 +1,1 @@
-# rdfize-benchmark
+# RDFize benchmark
